@@ -5,6 +5,8 @@
 
 [在线预览](http://cnode.ned2018.tk/)
 
+![手机端请扫二维码](https://github.com/cw84973570/mobile-vue-cnodejs/blob/master/QR-code.png)
+
 ## 技术栈
 
 [Vue.js](https://vuejs.org/)

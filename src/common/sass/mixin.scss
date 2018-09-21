@@ -1,0 +1,9 @@
+@import './variable.scss';
+
+@mixin avatar($size) {
+  vertical-align: middle;
+  height: $size;
+  width: $size;
+  border-radius: $size;
+  border: 1px solid $border-color;
+}

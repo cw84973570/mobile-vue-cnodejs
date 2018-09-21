@@ -1,0 +1,34 @@
+@media(max-width: 350px) {
+  .scale_fontsize {
+    line-height: 0.12rem;
+    height: 0.12rem;
+    font-size: 0.12rem;
+  }
+}
+@media(min-width: 351px) {
+  .scale_fontsize {
+    line-height: 0.16rem;
+    height: 0.16rem;
+    font-size: 0.16rem;
+  }
+}
+
+html {
+  font-size: 625%;
+}
+
+.iScrollVerticalScrollbar {
+  position: absolute;
+  z-index: 10000;
+  width: 0.06rem;
+  bottom: 2px;
+  top: 2px;
+  right: 0;
+  overflow: hidden;
+}
+.iScrollIndicator {
+  box-sizing: border-box;
+  position: absolute;
+  background: rgba(120, 120, 120, 0.5);
+  width: 0.03rem;
+}
